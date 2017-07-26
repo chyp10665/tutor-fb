@@ -66,12 +66,9 @@ footer {
     bottom: 0px;
     padding: 10px;
     width: 135px;
-    font-size: 0.9em;
     text-align: center;
-    background-color: rgba(255,255,255,0.7);
-    border-radius: 10px;
-    margin: 180px 15px;
-    border: 1px solid #ddd;
+    margin-top:100px;
+    margin-left:15px;
 }
 
 .form{
@@ -94,7 +91,8 @@ footer {
 button{
     background-color:White;
     border:1px solid #ddd;
-    font-size:1em;
+    font-size:1.8em;
+    padding:10px
     margin:0px auto;
     font-family: '微軟正黑體',SimHei,'PingFang TC','PingFang SC';
 

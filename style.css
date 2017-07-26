@@ -61,13 +61,14 @@ a{
    padding-top:5px;
 }
 
+
 footer {
-    position: relative;
+    position: absolute;
     bottom: 0px;
     padding: 10px;
     text-align: center;
-    margin-top:100px;
-    margin-left:15px;
+    width: 100%;
+    background-color:#dc3909;
 }
 
 .form{
@@ -88,11 +89,7 @@ footer {
     text-align:center;display:inline-block;
 }
 button{
-    background-color:White;
-    border:1px solid #ddd;
-    font-size:1.8em;
-    padding:10px
+    font-size:1.1em;
     margin:0px auto;
     font-family: '微軟正黑體',SimHei,'PingFang TC','PingFang SC';
-
 }
